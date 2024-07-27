@@ -1,0 +1,48 @@
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\bin\Debug\net8.0-windows\XOGame.exe
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\bin\Debug\net8.0-windows\XOGame.deps.json
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\bin\Debug\net8.0-windows\XOGame.runtimeconfig.json
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\bin\Debug\net8.0-windows\XOGame.dll
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\bin\Debug\net8.0-windows\XOGame.pdb
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.csproj.AssemblyReference.cache
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.Form1.resources
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.csproj.GenerateResource.cache
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.AssemblyInfoInputs.cache
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.AssemblyInfo.cs
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.csproj.CoreCompileInputs.cache
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.csproj.Up2Date
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.dll
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\obj\Debug\net8.0-windows\refint\XOGame.dll
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.pdb
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.genruntimeconfig.cache
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\obj\Debug\net8.0-windows\ref\XOGame.dll
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame._2Player.resources
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.Properties.Resources.resources
+C:\Users\CompuTouch\source\repos\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame._2playerEntiry.resources
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\bin\Debug\net8.0-windows\XOGame.exe
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\bin\Debug\net8.0-windows\XOGame.deps.json
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\bin\Debug\net8.0-windows\XOGame.runtimeconfig.json
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\bin\Debug\net8.0-windows\XOGame.dll
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\bin\Debug\net8.0-windows\XOGame.pdb
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.csproj.AssemblyReference.cache
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame._2Player.resources
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame._2playerEntiry.resources
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.Form1.resources
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.Properties.Resources.resources
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.csproj.GenerateResource.cache
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.AssemblyInfoInputs.cache
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.AssemblyInfo.cs
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.csproj.CoreCompileInputs.cache
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.csproj.Up2Date
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.dll
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\obj\Debug\net8.0-windows\refint\XOGame.dll
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.pdb
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\obj\Debug\net8.0-windows\XOGame.genruntimeconfig.cache
+C:\Users\CompuTouch\Desktop\iti\C#\advanced XO\XOGame\XOGame\obj\Debug\net8.0-windows\ref\XOGame.dll
